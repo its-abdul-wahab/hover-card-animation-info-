@@ -2,7 +2,7 @@
 
 Today we learn how to create awesome info/product card hover animation in adobe xd prototypes with new hover states components. Watch full tutorial as there are some tips to make effect easily and more effectively.
 
-<a href='https://youtu.be/KWNh3U1YFE8'target="_blank"><img src='https://github.com/its-abdul-wahab/hover-card-animation-info-/blob/master/hover-card-thumbnail.png?raw=true'></a>
+<a href='https://youtu.be/KWNh3U1YFE8' target="_blank"><img src='https://github.com/its-abdul-wahab/hover-card-animation-info-/blob/master/hover-card-thumbnail.png?raw=true'></a>
 
 # MY TOOLS:
 - Adobe Xd
